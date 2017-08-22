@@ -1,0 +1,22 @@
+﻿<Window xmlns:UserControls="clr-namespace:Converter.UserControls"  x:Class="Converter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Converter" 
+        FontSize="16"
+        Width="250"
+        x:Name="Converter"
+        Icon="doc_convert.ico">
+    <StackPanel>
+        <Button Content="О программе" Click="Button_Click"  Width="110" HorizontalAlignment="Left" VerticalAlignment="Bottom"></Button>
+        <Grid Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <UserControls:ChooseFileUserControl />
+            <UserControls:GetFinishFileUserControl Grid.Row="1" />
+        </Grid>
+    </StackPanel>
+</Window>

@@ -1,0 +1,31 @@
+C:\Users\Indis\Documents\AsyncBinding\AsyncBinding\Infrastructure.Shared\bin\Debug\Infrastructure.Shared.dll
+C:\Users\Indis\Documents\AsyncBinding\AsyncBinding\Infrastructure.Shared\bin\Debug\Infrastructure.Shared.pdb
+C:\Users\Indis\Documents\AsyncBinding\AsyncBinding\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Indis\Documents\AsyncBinding\AsyncBinding\Infrastructure.Shared\obj\Debug\Resources\Templates.baml
+C:\Users\Indis\Documents\AsyncBinding\AsyncBinding\Infrastructure.Shared\obj\Debug\Infrastructure.Shared_MarkupCompile.cache
+C:\Users\Indis\Documents\AsyncBinding\AsyncBinding\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.g.resources
+C:\Users\Indis\Documents\AsyncBinding\AsyncBinding\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.dll
+C:\Users\Indis\Documents\AsyncBinding\AsyncBinding\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.pdb
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\bin\Debug\Infrastructure.Shared.dll
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\bin\Debug\Infrastructure.Shared.pdb
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Debug\Resources\Templates.baml
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared_MarkupCompile.cache
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.g.resources
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.dll
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.pdb
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\bin\Debug\Infrastructure.Shared.dll
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\bin\Debug\Infrastructure.Shared.pdb
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Debug\Resources\Templates.baml
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared_MarkupCompile.cache
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.g.resources
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.dll
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.pdb
+C:\Users\ksenia\Documents\Visual Studio 2015\Projects\Converter\Infrastructure.Shared\bin\Debug\Infrastructure.Shared.dll
+C:\Users\ksenia\Documents\Visual Studio 2015\Projects\Converter\Infrastructure.Shared\bin\Debug\Infrastructure.Shared.pdb
+C:\Users\ksenia\Documents\Visual Studio 2015\Projects\Converter\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.csprojResolveAssemblyReference.cache
+C:\Users\ksenia\Documents\Visual Studio 2015\Projects\Converter\Infrastructure.Shared\obj\Debug\Resources\Templates.baml
+C:\Users\ksenia\Documents\Visual Studio 2015\Projects\Converter\Infrastructure.Shared\obj\Debug\Infrastructure.Shared_MarkupCompile.cache
+C:\Users\ksenia\Documents\Visual Studio 2015\Projects\Converter\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.g.resources
+C:\Users\ksenia\Documents\Visual Studio 2015\Projects\Converter\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.dll
+C:\Users\ksenia\Documents\Visual Studio 2015\Projects\Converter\Infrastructure.Shared\obj\Debug\Infrastructure.Shared.pdb

@@ -1,0 +1,24 @@
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\bin\Release\Infrastructure.Shared.dll
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\bin\Release\Infrastructure.Shared.pdb
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared.csprojResolveAssemblyReference.cache
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Release\Resources\Templates.baml
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared_MarkupCompile.cache
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared.g.resources
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared.dll
+C:\Users\Сергей Мунтьянов\OneDrive\Документы\КОД\склад\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared.pdb
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\bin\Release\Infrastructure.Shared.dll
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\bin\Release\Infrastructure.Shared.pdb
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Release\Resources\Templates.baml
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared_MarkupCompile.cache
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared.g.resources
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared.dll
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared.pdb
+C:\Users\Indis\Documents\Store\StoreTest\Infrastructure.Shared\obj\Release\Infrastructure.Shared.csprojResolveAssemblyReference.cache
+C:\Users\ksenia\documents\visual studio 2015\Projects\Converter\Infrastructure.Shared\bin\Release\Infrastructure.Shared.dll
+C:\Users\ksenia\documents\visual studio 2015\Projects\Converter\Infrastructure.Shared\bin\Release\Infrastructure.Shared.pdb
+C:\Users\ksenia\documents\visual studio 2015\Projects\Converter\Infrastructure.Shared\obj\Release\Infrastructure.Shared.csprojResolveAssemblyReference.cache
+C:\Users\ksenia\documents\visual studio 2015\Projects\Converter\Infrastructure.Shared\obj\Release\Resources\Templates.baml
+C:\Users\ksenia\documents\visual studio 2015\Projects\Converter\Infrastructure.Shared\obj\Release\Infrastructure.Shared_MarkupCompile.cache
+C:\Users\ksenia\documents\visual studio 2015\Projects\Converter\Infrastructure.Shared\obj\Release\Infrastructure.Shared.g.resources
+C:\Users\ksenia\documents\visual studio 2015\Projects\Converter\Infrastructure.Shared\obj\Release\Infrastructure.Shared.dll
+C:\Users\ksenia\documents\visual studio 2015\Projects\Converter\Infrastructure.Shared\obj\Release\Infrastructure.Shared.pdb

@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="Converter.UserControls.ChooseFileUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Converter.UserControls">
+    <StackPanel>
+        <TextBlock Text="{Binding State}" Margin="20"></TextBlock>
+        <Button Content="Выберете файл" Command="{Binding ChooseFile}" Margin="20" Height="30"></Button>
+
+    </StackPanel>
+</UserControl>
